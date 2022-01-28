@@ -12,10 +12,7 @@ My Career Foundry course certificate is attached here:
 [CareerFoundry_Certificate_Brandon Larsen.pdf](https://github.com/larsen0825/larsen0825.github.io-Larsen-Development/files/7960388/CareerFoundry_Certificate_Brandon.Larsen.pdf)
 
 
-
-
-<img width="2048" alt="Screen Shot 2022-01-28 at 1 20 51 PM" src="https://user-images.githubusercontent.com/78632338/151616139-bf4a2a47-4b69-4035-bd01-d7a6fcefbf75.png">
-<img width="2048" alt="Screen Shot 2022-01-28 at 1 20 55 PM" src="https://user-images.githubusercontent.com/78632338/151616149-10d08546-2ce3-4a0c-9bf0-680baa23082f.png">
-<img width="2048" alt="Screen Shot 2022-01-28 at 1 20 58 PM" src="https://user-images.githubusercontent.com/78632338/151616165-d33a061d-05aa-4cad-a7e6-45361ba68308.png">
-<img width="2048" alt="Screen Shot 2022-01-28 at 1 21 01 PM" src="https://user-images.githubusercontent.com/78632338/151616179-59fcdacc-ebfa-4c84-9ee0-5612662ae3be.png">
-
+<img width="2048" alt="Home_2:28:22" src="https://user-images.githubusercontent.com/78632338/151617813-59697773-197e-4dbc-8adf-a709cdc76864.png">
+<img width="2046" alt="About_1:28:22" src="https://user-images.githubusercontent.com/78632338/151617828-71b1f93c-a7a1-4c8d-9fbf-d6527ac423e5.png">
+<img width="2046" alt="Project_1:28:22" src="https://user-images.githubusercontent.com/78632338/151617850-b4ae3e74-a7c7-44dd-8091-7ae00fb13bf8.png">
+<img width="2044" alt="Contact_1:28:22" src="https://user-images.githubusercontent.com/78632338/151617867-527c60c3-cf2b-4c0a-902a-e7eb6bffe081.png">
