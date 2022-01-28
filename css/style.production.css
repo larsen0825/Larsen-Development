@@ -92,7 +92,6 @@ a:active {
   flex: 0 1 200px;
   -webkit-box-flex: 1;
   -ms-flex-positive: 1;
-  flex-grow: 1;
   text-align: right;
 }
 
@@ -176,7 +175,8 @@ a:active {
 
 .submit {
   margin-top: 20px;
-  color: #0c7294;
+  background-color: #A3A39D;
+  color: #000000;
 }
 .skype: {
   -webkit-transition-duration: 0.2s;
@@ -233,8 +233,8 @@ body {
   position:absolute;
   bottom:0;
   left:0;
+  background-color: inherit;
   color: #131212;
-  color: inherit; 
 }
 
 .wave {
@@ -254,6 +254,10 @@ body {
   -webkit-animation: wave 7s cubic-bezier( 0.36, 0.45, 0.63, 0.53) -.125s infinite, swell 7s ease -1.25s infinite;
           animation: wave 7s cubic-bezier( 0.36, 0.45, 0.63, 0.53) -.125s infinite, swell 7s ease -1.25s infinite;
   opacity: 1;
+}
+.about-main {
+  background-color: #000000;
+  background-position: center;
 }
 
 @-webkit-keyframes wave {
@@ -346,5 +350,10 @@ margin-left: 45%;
 }
 .about-main {
   margin-left: 30%;
+}
+@media screen and (max-width: 800px){
+
+}
+@media screen and (max-width: 500px){
 
 }
