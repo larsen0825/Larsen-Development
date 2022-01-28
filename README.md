@@ -8,8 +8,5 @@ I'm seeeking work as a front end developer, and i hope to find a match with a co
 
 
 
-<img width="2048" alt="Screen Shot 2022-01-28 at 9 43 44 AM" src="https://user-images.githubusercontent.com/78632338/151587322-a44e0fa5-3341-4605-94e4-0a96467d9d50.png">
-<img width="2048" alt="Screen Shot 2022-01-28 at 9 43 52 AM" src="https://user-images.githubusercontent.com/78632338/151587333-6cfd0a1f-e13c-4097-8716-875eccb5e395.png">
-<img width="2048" alt="Screen Shot 2022-01-28 at 9 44 59 AM" src="https://user-images.githubusercontent.com/78632338/151587338-7f5ee4ea-62dd-460b-be86-fca721e6d8a5.png">
-<img width="2048" alt="Screen Shot 2022-01-28 at 9 45 52 AM" src="https://user-images.githubusercontent.com/78632338/151587345-b4386e51-22f2-4952-a5fd-ad2e390f4ffa.png">
+
 [CareerFoundry_Certificate_Brandon Larsen.pdf](https://github.com/larsen0825/larsen0825.github.io-Larsen-Development/files/7960388/CareerFoundry_Certificate_Brandon.Larsen.pdf)
